@@ -14,7 +14,11 @@ h1,h2,h3 {
 }
 
 a:link {
-  color: crimson;
+  color: #BF5700;
+}
+
+a:visited {
+  color: darkred;
 }
 
 small {
