@@ -2,15 +2,18 @@ body {
   color:#444;
   font-family: BukyVede;
   font-size: 1.2em;
-  /* font-size:18px; */
   line-height:1.6;
-  margin:20px auto;
+  margin:0 auto 10px;
   max-width:680px;
   padding:0 10px;
 }
 
 h1,h2,h3 {
   line-height:1.2
+}
+
+header {
+  overflow: auto;
 }
 
 a:link {
@@ -27,4 +30,12 @@ small {
 
 img {
   max-width: 100%;
+}
+
+ul ul {
+  padding-left: 1.5em;
+}
+
+footer {
+  margin-top: 10px;
 }
